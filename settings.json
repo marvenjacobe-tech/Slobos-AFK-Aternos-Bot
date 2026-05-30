@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "oceannnss",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "oceanic",
+    "password": "mjjess123",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "vanilla4smp.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -65,8 +65,8 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
